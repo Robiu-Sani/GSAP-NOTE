@@ -2,7 +2,8 @@
 ### 1. Introduction to GSAP
 * **What is it?** A powerful JavaScript library used to create high-performance animations on the web 
 * **Why use it?** It simplifies complex animations that would be difficult or verbose in CSS, offering better control and performance 
-* **Key Components covered in the series:** 1. Basics (this video)
+* **Key Components covered in the series:** <br/>
+    1. Basics (this video) <br/>
     2. ScrollTrigger <br/>
     3. SVG Animations <br/>
     4. Practical Projects <br/>
