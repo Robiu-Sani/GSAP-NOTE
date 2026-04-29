@@ -3,9 +3,9 @@
 * **What is it?** A powerful JavaScript library used to create high-performance animations on the web 
 * **Why use it?** It simplifies complex animations that would be difficult or verbose in CSS, offering better control and performance 
 * **Key Components covered in the series:** 1. Basics (this video)
-    2. ScrollTrigger
-    3. SVG Animations
-    4. Practical Projects
+    2. ScrollTrigger <br/>
+    3. SVG Animations <br/>
+    4. Practical Projects <br/>
 
 ### 2. Getting Started
 To use GSAP, you need to include the library in your project via CDN or NPM. The video demonstrates using a CDN link in the HTML file before your custom script 
